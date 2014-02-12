@@ -1,12 +1,12 @@
-Clumsy Bird
+Hungry Willbo
 ===========
 
 [![Flattr this git
-repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=ellisonleao&url=https://github.com/ellisonleao/clumsy-bird&title=Clumsy-Bird&language=javascript&tags=github&category=software)
+repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=dougdiehnelt&url=https://github.com/dougdiehnelt/clumsy-bird&title=Clumsy-Bird&language=javascript&tags=github&category=software)
 
 A MelonJS made "Flappy Bird" clone.
 
-Play online at http://ellisonleao.github.io/clumsy-bird/
+Play online at http://hungrywillbo.diehnelt.com
 
 ## Running Locally
 
